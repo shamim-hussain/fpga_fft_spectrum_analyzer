@@ -7,5 +7,6 @@ Code and Testbench at EDA Playground: https://www.edaplayground.com/x/JMu
 
 Demo: https://youtu.be/rpNE2jmLzJo
 
+![](https://i.imgur.com/W93ckxc.png)
 ![](https://i.imgur.com/IB7vNBK.jpg)
 
